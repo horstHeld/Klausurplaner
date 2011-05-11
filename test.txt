@@ -1,3 +1,0 @@
-first git-commit test (Ubuntu)
-second git-commit test (windows)
-third git-commit test (Ubuntu)
